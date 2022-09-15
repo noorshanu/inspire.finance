@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.435813b8.css",
+    "main.js": "/static/js/main.6d533885.js",
+    "static/js/787.13dde6a8.chunk.js": "/static/js/787.13dde6a8.chunk.js",
+    "static/media/red.png": "/static/media/red.5778f20cabdba5a8b4e0.png",
+    "static/media/blue.png": "/static/media/blue.7ac6879ca05a641f5477.png",
+    "static/media/about-1.jpg": "/static/media/about-1.d6c483cc683ee950e544.jpg",
+    "static/media/map.png": "/static/media/map.4896e07fece8e3aca264.png",
+    "static/media/vision.png": "/static/media/vision.06f5cce7cde813090825.png",
+    "static/media/cube.png": "/static/media/cube.7670d0a1bc4fe16f170a.png",
+    "static/media/part.png": "/static/media/part.f6b6c959f000099eb859.png",
+    "static/media/icon7.png": "/static/media/icon7.358e1e1a84c78c2c44c5.png",
+    "static/media/audit.png": "/static/media/audit.14621dec11ca3118bd05.png",
+    "static/media/ico.png": "/static/media/ico.b741a28a40e28260d1d4.png",
+    "static/media/game.png": "/static/media/game.ef1f05e0f0aa74b5e43b.png",
+    "static/media/circle-3.png": "/static/media/circle-3.b00399c6137491834cfd.png",
+    "static/media/crypto.png": "/static/media/crypto.d81f0acc3f4647b96db0.png",
+    "static/media/icon8.png": "/static/media/icon8.2c5499a68bfa05aed03f.png",
+    "static/media/icon4.png": "/static/media/icon4.7a08ecf0b49214d81bf6.png",
+    "static/media/lowest.png": "/static/media/lowest.7daca3ab352058127177.png",
+    "static/media/value.png": "/static/media/value.c812ae0e51e11db09567.png",
+    "static/media/rocket.png": "/static/media/rocket.a166986776761e11fabf.png",
+    "static/media/icon3.png": "/static/media/icon3.06f1cb09bae5d84d7da9.png",
+    "static/media/circle-2.png": "/static/media/circle-2.2e1095f3a0ff10f39548.png",
+    "static/media/icon1.png": "/static/media/icon1.b188c99f2a647a734dcb.png",
+    "static/media/icon6.png": "/static/media/icon6.ea7e6f1806cff125063c.png",
+    "static/media/icon2.png": "/static/media/icon2.a0321d6237c1803b0aae.png",
+    "static/media/icon5.png": "/static/media/icon5.2a62245abd82d64162b6.png",
+    "index.html": "/index.html",
+    "main.435813b8.css.map": "/static/css/main.435813b8.css.map",
+    "main.6d533885.js.map": "/static/js/main.6d533885.js.map",
+    "787.13dde6a8.chunk.js.map": "/static/js/787.13dde6a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435813b8.css",
+    "static/js/main.6d533885.js"
+  ]
+}
